@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rental-platform/static/css/main.3e45ca8e.css",
+    "main.js": "/rental-platform/static/js/main.fdd44a79.js",
+    "static/js/794.f76f5cec.chunk.js": "/rental-platform/static/js/794.f76f5cec.chunk.js",
+    "static/js/859.29b511f8.chunk.js": "/rental-platform/static/js/859.29b511f8.chunk.js",
+    "static/js/307.0762176a.chunk.js": "/rental-platform/static/js/307.0762176a.chunk.js",
+    "static/js/941.307e4b75.chunk.js": "/rental-platform/static/js/941.307e4b75.chunk.js",
+    "static/js/84.6ad0a7ad.chunk.js": "/rental-platform/static/js/84.6ad0a7ad.chunk.js",
+    "static/media/cover_01.jpg": "/rental-platform/static/media/cover_01.b6cd4959256d5b6a6194.jpg",
+    "index.html": "/rental-platform/index.html",
+    "main.3e45ca8e.css.map": "/rental-platform/static/css/main.3e45ca8e.css.map",
+    "main.fdd44a79.js.map": "/rental-platform/static/js/main.fdd44a79.js.map",
+    "794.f76f5cec.chunk.js.map": "/rental-platform/static/js/794.f76f5cec.chunk.js.map",
+    "859.29b511f8.chunk.js.map": "/rental-platform/static/js/859.29b511f8.chunk.js.map",
+    "307.0762176a.chunk.js.map": "/rental-platform/static/js/307.0762176a.chunk.js.map",
+    "941.307e4b75.chunk.js.map": "/rental-platform/static/js/941.307e4b75.chunk.js.map",
+    "84.6ad0a7ad.chunk.js.map": "/rental-platform/static/js/84.6ad0a7ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e45ca8e.css",
+    "static/js/main.fdd44a79.js"
+  ]
+}
