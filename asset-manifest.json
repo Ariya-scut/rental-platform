@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e45ca8e.css",
-    "main.js": "/static/js/main.97b571dd.js",
-    "static/js/794.2aeef98e.chunk.js": "/static/js/794.2aeef98e.chunk.js",
-    "static/js/931.b98eeca4.chunk.js": "/static/js/931.b98eeca4.chunk.js",
-    "static/js/307.49292374.chunk.js": "/static/js/307.49292374.chunk.js",
-    "static/js/941.4e3063e4.chunk.js": "/static/js/941.4e3063e4.chunk.js",
-    "static/js/84.6eb0803a.chunk.js": "/static/js/84.6eb0803a.chunk.js",
-    "static/media/cover_01.jpg": "/static/media/cover_01.b6cd4959256d5b6a6194.jpg",
-    "index.html": "/index.html",
-    "main.3e45ca8e.css.map": "/static/css/main.3e45ca8e.css.map",
-    "main.97b571dd.js.map": "/static/js/main.97b571dd.js.map",
-    "794.2aeef98e.chunk.js.map": "/static/js/794.2aeef98e.chunk.js.map",
-    "931.b98eeca4.chunk.js.map": "/static/js/931.b98eeca4.chunk.js.map",
-    "307.49292374.chunk.js.map": "/static/js/307.49292374.chunk.js.map",
-    "941.4e3063e4.chunk.js.map": "/static/js/941.4e3063e4.chunk.js.map",
-    "84.6eb0803a.chunk.js.map": "/static/js/84.6eb0803a.chunk.js.map"
+    "main.css": "/rental-platform/static/css/main.3e45ca8e.css",
+    "main.js": "/rental-platform/static/js/main.35c5ab84.js",
+    "static/js/794.0e5ecf0e.chunk.js": "/rental-platform/static/js/794.0e5ecf0e.chunk.js",
+    "static/js/931.4f1ef824.chunk.js": "/rental-platform/static/js/931.4f1ef824.chunk.js",
+    "static/js/307.f110f97e.chunk.js": "/rental-platform/static/js/307.f110f97e.chunk.js",
+    "static/js/941.307e4b75.chunk.js": "/rental-platform/static/js/941.307e4b75.chunk.js",
+    "static/js/84.6ad0a7ad.chunk.js": "/rental-platform/static/js/84.6ad0a7ad.chunk.js",
+    "static/media/cover_01.jpg": "/rental-platform/static/media/cover_01.b6cd4959256d5b6a6194.jpg",
+    "index.html": "/rental-platform/index.html",
+    "main.3e45ca8e.css.map": "/rental-platform/static/css/main.3e45ca8e.css.map",
+    "main.35c5ab84.js.map": "/rental-platform/static/js/main.35c5ab84.js.map",
+    "794.0e5ecf0e.chunk.js.map": "/rental-platform/static/js/794.0e5ecf0e.chunk.js.map",
+    "931.4f1ef824.chunk.js.map": "/rental-platform/static/js/931.4f1ef824.chunk.js.map",
+    "307.f110f97e.chunk.js.map": "/rental-platform/static/js/307.f110f97e.chunk.js.map",
+    "941.307e4b75.chunk.js.map": "/rental-platform/static/js/941.307e4b75.chunk.js.map",
+    "84.6ad0a7ad.chunk.js.map": "/rental-platform/static/js/84.6ad0a7ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e45ca8e.css",
-    "static/js/main.97b571dd.js"
+    "static/js/main.35c5ab84.js"
   ]
 }
